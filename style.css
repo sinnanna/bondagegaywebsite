@@ -114,6 +114,10 @@ body {
   background-image: url("img/icon-css.svg");
 }
 
+.skill-fist {
+  background-image: url("img/icon-fist.svg");
+}
+
 .level {
   margin: 4px 0 16px;
   padding: 0;
@@ -156,6 +160,7 @@ body {
 
 .button {
   padding: 6px 20px;
+  margin-top: 20px;
   display: inline-block;
   vertical-align: baseline;
   text-decoration: none;
@@ -168,6 +173,8 @@ body {
 .page-footer {
   padding: 40px 0;
   background-color: #260c26;
+  position: absolute;
+  width: 960px;
 }
 
 .page-footer a {
